@@ -1,57 +1,124 @@
+
 # 👋 Hi, I'm Ansh Kumar Dev
 
-🎓 **Data Scientist | M.S. in Data Science, University of Arizona**
+🎓 **Data Scientist | M.S. in Data Science @ University of Arizona**
 
-🔬 Passionate about transforming data into actionable insights through advanced analytics, machine learning, and scalable data engineering solutions.
-
----
-
-## 🧠 About Me
-
-I'm a data scientist with a strong foundation in data engineering and analytics. My expertise lies in building end-to-end data pipelines, developing machine learning models, and creating interactive dashboards to drive business decisions. I thrive on solving complex problems and continuously learning new technologies.
+I'm a data scientist with a strong foundation in artificial intelligence, machine learning, and scalable data engineering. With research and industry experience across India and the U.S., I specialize in building robust pipelines, deploying real-time ML systems, and extracting actionable insights from complex datasets.
 
 ---
 
-## 🛠️ Tech Stack
+## 💼 Professional Highlights
 
-- **Languages:** Python, SQL, R
-- **Data Engineering:** Azure Data Factory, Databricks, Apache Spark, Synapse Analytics
-- **Databases:** MongoDB, PostgreSQL, MySQL
-- **Data Visualization:** Power BI, Tableau
-- **Machine Learning:** Scikit-learn, TensorFlow, PyTorch
-- **Tools & Platforms:** Git, Docker, Azure, Jupyter Notebooks
+- 🔍 Designed predictive models integrating computer vision and RNNs to forecast aquifer water levels.
+- 🧪 Enhanced diabetes prediction accuracy by 15% using Bayesian optimization and ensemble learning.
+- 🚀 Built cloud-native ETL pipelines on Azure and AWS, enabling real-time analytics for e-commerce and healthcare.
+- 📊 Developed dashboards in Power BI and Tableau for data storytelling and executive decision-making.
 
 ---
 
-## 📈 Projects
-
-Here are some of my notable projects:
-
-- [**E-commerce Analytics**](https://github.com/Anshkumardev/azure-etl-pipeline): Developed a scalable ETL pipeline using Azure services to unify multi-source data and enable real-time e-commerce analytics.
-
-- [**Data-Driven Insights for EdTech Content Optimization**](https://github.com/Anshkumardev/PowerBI---Data-Driven-Insights-for-EdTech-Content-Optimization-): Engineered features from large-scale EdTech datasets and developed interactive Power BI dashboards to uncover trends and optimize content strategies.
-
-- [**YOLO Object Detection for ADAS**](https://github.com/Anshkumardev/YOLO-Object-Detection-and-Classification-for-ADAS): Implemented YOLO-based object detection models to enhance Advanced Driver-Assistance Systems (ADAS) with real-time object classification.
-
-- [**Healthcare Accessibility Analysis**](https://github.com/Anshkumardev/Healthcare-Accessibility-): Analyzed healthcare accessibility data to identify disparities and suggest improvements in healthcare infrastructure.
-
-- [**End-to-End Machine Learning Project**](https://github.com/Anshkumardev/End-to-end-ML-Project): Built a complete machine learning pipeline from data preprocessing to model deployment, demonstrating the full lifecycle of a data science project.
+## 🛠️ Technical Proficiencies  
+A comprehensive overview of the tools and technologies I actively use across data science, machine learning, and full-stack development workflows.
 
 ---
 
-## 📊 GitHub Stats
+### 🧑‍💻 Programming Languages  
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
+</p>
 
-![Ansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anshkumardev&show_icons=true&theme=default)
+---
+
+### 📊 Data Visualization & Business Intelligence  
+<p>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-76B900?style=flat&logo=python&logoColor=white" />
+</p>
+
+---
+
+### 🧠 Machine Learning & Deep Learning  
+<p>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
+</p>
+
+---
+
+### ☁️ Cloud Platforms & Big Data  
+<p>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat&logo=apachespark&logoColor=white" />
+</p>
+
+---
+
+### ⚙️ Data Engineering & Pipelines  
+<p>
+  <img src="https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=flat&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Databricks-E34A28?style=flat&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Synapse%20Analytics-0078D4?style=flat&logo=microsoftazure&logoColor=white" />
+</p>
+
+---
+
+### 🧪 DevOps, APIs & Deployment  
+<p>
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20APIs-005571?style=flat&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%2FCD-0A0A0A?style=flat&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+</p>
+
+---
+
+### 🗄️ Databases  
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+🔗 [**E-commerce Analytics (Azure ETL)**](https://github.com/Anshkumardev/azure-etl-pipeline)  
+Built a real-time ETL pipeline using ADF, Databricks, and Synapse; unified multi-source data and enabled insights via Power BI.
+
+🔗 [**Multi-Label Emotion Classification (RoBERTa)**](https://github.com/Anshkumardev/Multi-Label-Emotion-Classification-with-Fine-Tuned-RoBERTa)  
+Fine-tuned a transformer model on 28K+ labeled texts to classify multiple emotions with a 12% accuracy boost.
+
+🔗 [**Advanced Stroke Prediction & Analytics**](https://github.com/Anshkumardev/Brain-stroke/blob/master/Brain_stroke-new.ipynb)  
+Processed 40K+ healthcare records to predict stroke risk using Decision Trees, SVM, PCA, and clustering techniques.
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anshkumardev&show_icons=true&theme=default)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anshkumardev&layout=compact)
 
 ---
 
-## 📫 Let's Connect
+## 🌐 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/ansh-kumar-dev)
-- [GitHub](https://github.com/Anshkumardev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat&link=https://www.linkedin.com/in/ansh-kumar-dev/)](https://www.linkedin.com/in/ansh-kumar-dev/)
+[![Gmail](https://img.shields.io/badge/Email-red?logo=gmail&style=flat)](mailto:anshkumardev@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=flat)](https://github.com/Anshkumardev)
 
 ---
 
-*“Data is the new oil, and I strive to be the refinery that transforms it into valuable insights.”*
+📌 *Always open to meaningful collaborations in data science, ML research, and AI for social good.*
