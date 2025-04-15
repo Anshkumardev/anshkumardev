@@ -3,17 +3,20 @@
 
 🎓 **Data Scientist | M.S. in Data Science @ University of Arizona**
 
-I'm a data scientist with a strong foundation in artificial intelligence, machine learning, and scalable data engineering. With research and industry experience across India and the U.S., I specialize in building robust pipelines, deploying real-time ML systems, and extracting actionable insights from complex datasets.
+I'm a data scientist with a passion for turning complex data into real-world impact. My work spans across AI research, cloud-native pipelines, and scalable machine learning systems. With hands-on experience in both industry and academia across the U.S. and India, I focus on building intelligent solutions that are robust, interpretable, and deployable. Whether it's optimizing healthcare models, analyzing sensor networks, or enhancing e-commerce strategies, I thrive on solving meaningful problems with data.
 
 ---
 
 ## 💼 Professional Highlights
 
-- 🔍 Designed predictive models integrating computer vision and RNNs to forecast aquifer water levels.
-- 🧪 Enhanced diabetes prediction accuracy by 15% using Bayesian optimization and ensemble learning.
-- 🚀 Built cloud-native ETL pipelines on Azure and AWS, enabling real-time analytics for e-commerce and healthcare.
-- 📊 Developed dashboards in Power BI and Tableau for data storytelling and executive decision-making.
-
+- 👁️‍🗨️ Built deep learning models using computer vision and RNNs to predict aquifer water levels from imagery and time-series sensor data.
+- 💉 Improved diabetes risk prediction accuracy by 15% through ensemble learning and Bayesian hyperparameter tuning.
+- ☁️ Designed and deployed scalable ETL pipelines on Azure and AWS, integrating multi-source data for real-time analytics in healthcare and e-commerce.
+- 📈 Created interactive dashboards in Power BI and Tableau, helping researchers and business teams explore trends and make informed decisions.
+- 🔍 Fine-tuned RoBERTa for multi-label emotion detection on 28K+ text entries, reducing training time by 40% and boosting performance by 12%.
+- 🤖 Built a real-time object detection system using YOLOv5 and OpenCV, achieving 85%+ mAP on thermal imagery for ADAS applications.
+- 📱 Developed an Android OCR app for Hindi text extraction, translation, and summarization using Pegasus XSUM and Google APIs.
+- 🛠️ Optimized relational database schemas for fleet analytics, reducing query latency by 40% and supporting predictive modeling in self-service rentals.
 ---
 
 ## 🛠️ Technical Proficiencies  
@@ -94,14 +97,29 @@ A comprehensive overview of the tools and technologies I actively use across dat
 
 ## 🚀 Featured Projects
 
+
 🔗 [**E-commerce Analytics (Azure ETL)**](https://github.com/Anshkumardev/azure-etl-pipeline)  
 Built a real-time ETL pipeline using ADF, Databricks, and Synapse; unified multi-source data and enabled insights via Power BI.
 
-🔗 [**Multi-Label Emotion Classification (RoBERTa)**](https://github.com/Anshkumardev/Multi-Label-Emotion-Classification-with-Fine-Tuned-RoBERTa)  
-Fine-tuned a transformer model on 28K+ labeled texts to classify multiple emotions with a 12% accuracy boost.
+🔗 [**Multi-Label Emotion Classification with Fine-Tuned RoBERTa**](https://github.com/Anshkumardev/Multi-Label-Emotion-Classification-with-Fine-Tuned-RoBERTa)  
+Increased classification accuracy by 12% by optimizing a RoBERTa Transformer with custom pooling and adaptive dropout. Built a scalable NLP pipeline for 28K+ entries and cut training time by 40% using GPU profiling and hyperparameter tuning.
 
-🔗 [**Advanced Stroke Prediction & Analytics**](https://github.com/Anshkumardev/Brain-stroke/blob/master/Brain_stroke-new.ipynb)  
-Processed 40K+ healthcare records to predict stroke risk using Decision Trees, SVM, PCA, and clustering techniques.
+🔗 [**Advanced Stroke Analytics & Prediction**](https://github.com/Anshkumardev/Brain-stroke/blob/master/Brain_stroke-new.ipynb)  
+Processed and modeled a 40K+ patient dataset using Decision Trees, SVM, and clustering (K-Means, PCA, Association Rules) to uncover risk factors and improve clinical prediction metrics.
+
+🔗 [**Relational Database Design & Optimization for Fleet Management**](https://github.com/Anshkumardev/Relational-Database-Design-and-Optimization-for-Fleet-Management)  
+Designed normalized MySQL schemas with junction tables, reducing query latency by 40%. Optimized database structure for rental analytics, predictive insights, and real-time decision support.
+
+🔗 [**Data-Driven Insights for EdTech Content Optimization**](https://github.com/Anshkumardev/PowerBI---Data-Driven-Insights-for-EdTech-Content-Optimization-)  
+Engineered insights on user behavior and course design using Power BI, EDA, and trend analysis. Enhanced content strategies by identifying high-impact topics, durations, and subtitle engagement.
+
+
+
+🔗 [**YOLO-Based Thermal Object Detection for ADAS**](https://github.com/Anshkumardev/YOLO-Object-Detection-and-Classification-for-ADAS)  
+Developed a real-time object detection system using YOLOv5 with 90% accuracy and 85% mAP on thermal images. Enhanced inference performance using quantization, pruning, and OpenCV preprocessing for embedded systems.
+
+🔗 [**Android OCR & Summarization App**](https://github.com/Anshkumardev/AI-Scanner)  
+Built an Android app to extract Hindi text using PyTesseract, translate via Google Translate API, and summarize with Pegasus XSUM. Delivered a real-time machine learning pipeline for mobile image-to-text summarization.
 
 ---
 
